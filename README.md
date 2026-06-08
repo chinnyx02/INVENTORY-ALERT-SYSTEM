@@ -12,16 +12,9 @@ Key Deliverables:
 
 
 Key Insights
-🔴 Critical Finding #1
 
-Phone X and Monitor 24 will stockout in less than 3 days
+# Phone X and Monitor 24 will stockout in less than 3 days
 
-Technologies Used
-Tool	Purpose
-SQL Server	Data storage, calculations, views
-Excel	Quick analysis, templates, conditional formatting
-Power BI	Interactive dashboard, drill-through, publishing
-GitHub	Version control and collaboration
 
     Phone X: 12 units left → 2 days remaining
 
@@ -29,9 +22,8 @@ GitHub	Version control and collaboration
 
     Action: Emergency reorder within 24 hours
 
-🔴 Critical Finding #2
 
-USB Cable has a hidden supply chain failure
+# USB Cable has a hidden supply chain failure
 
     500 units on hand appears safe, but:
 
@@ -39,7 +31,14 @@ USB Cable has a hidden supply chain failure
 
     Action: Increase safety stock to 100 or find faster supplier
 
+Technologies Used
+
+SQL Server	Data storage, calculations, views
+Excel	Quick analysis, templates, conditional formatting
+Power BI,Interactive dashboard.
+   
      Recommended Actions
+
 Priority	Action	Timeline	Responsible
 P0	Reorder Phone X (27 units)	< 24 hours	Procurement
 P0	Reorder Monitor 24 (31 units)	< 24 hours	Procurement
